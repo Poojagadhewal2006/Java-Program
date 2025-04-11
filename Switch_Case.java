@@ -1,3 +1,5 @@
+
+
 public class Switch_Case {
     public static void main(String[] args) {
         int a=8;
@@ -16,5 +18,6 @@ public class Switch_Case {
             System.out.println("byee"); 
             break;
         }
+       
     }
 }
